@@ -43,6 +43,6 @@ and run the application
 
 This is result about doing a consult on database and after that, doing a consult on redis.
 
-![Screenshot]("./before.png")
+![Captura de tela de 2023-08-23 08-33-27](https://github.com/HigorAln/redis_node/assets/86208458/359a4707-c111-4eec-8374-4ac2f69c118d)
+![Captura de tela de 2023-08-23 08-36-13](https://github.com/HigorAln/redis_node/assets/86208458/7a5b6fed-7276-4f2a-9dbe-860975cd8315)
 
-![Screenshot]("./after.png")
