@@ -43,5 +43,5 @@ and run the application
 
 This is result about doing a consult on database and after that, doing a consult on redis.
 
-![image]("./src/assets/before.png")
-![image]("./src/assets/after.png")
+![image]("https://github.com/HigorAln/redis_node/blob/master/src/assets/before.png")
+![image]("https://github.com/HigorAln/redis_node/blob/master/src/assets/after.png")
